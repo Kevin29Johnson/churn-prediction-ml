@@ -24,7 +24,7 @@ This project uses an **Artificial Neural Network (ANN)** for classification. The
 ## 📊 Dataset
 
 **Source:** Kaggle   
-**File:** `Churn Modeling.csv`
+
 
 **Features:**
 - `CreditScore`, `Geography`, `Gender`, `Age`, `Tenure`, `Balance`, `NumOfProducts`, `HasCrCard`, `IsActiveMember`, `EstimatedSalary`
@@ -71,5 +71,14 @@ This project uses an **Artificial Neural Network (ANN)** for classification. The
 
 **Confusion Matrix:**
 
-[[1552,  43],
- [220, 185]]
+### 📉 Confusion Matrix
+
+Confusion Matrix:
+[[1552   43]
+ [ 220  185]]
+
+- **True Negatives (TN):** 1552  
+- **False Positives (FP):** 43  
+- **False Negatives (FN):** 220  
+- **True Positives (TP):** 185
+
