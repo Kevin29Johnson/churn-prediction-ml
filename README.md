@@ -23,7 +23,7 @@ This project uses an **Artificial Neural Network (ANN)** for classification. The
 
 ## 📊 Dataset
 
-**Source:** Kaggle / IBM Sample Dataset  
+**Source:** Kaggle   
 **File:** `Churn Modeling.csv`
 
 **Features:**
